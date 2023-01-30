@@ -1,6 +1,9 @@
 # GoogleMaps
 GoogleMaps
 
+So far to date: Mon 30th Jan 23, I don't recall having created a Google Map, yet...?  
+So, therefore, I've created this 'repository' which will report on my future progress.
+
 ## Links
 
 ## Tutorials
